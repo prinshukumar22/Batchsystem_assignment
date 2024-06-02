@@ -18,6 +18,7 @@ dist
 *.temp  # Temporary files
 *.cache   # Cache files
 *.bak   # Backup files
+.hintrc
 
 # Others
 *.log   # Log files
